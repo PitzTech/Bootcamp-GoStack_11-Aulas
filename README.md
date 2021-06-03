@@ -5,13 +5,10 @@
   🎓 Código do décimo primeiro módulo do Bootcamp GoStack
 </h3>
 
-<br/>
-
 <blockquote align="center">
    “Não espere para plantar, apenas tenha paciência para colher”!
 </blockquote>
 
-<br/>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-11?color=%2304D361">
@@ -28,8 +25,8 @@
 </p>
 
 <p align="center">
-  <a href="#-🚀-sobre-esse-repositório">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/PitzTech/desafios-GoStack_11-Bootcamp">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-esse-repositório">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-veja-também-os-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
