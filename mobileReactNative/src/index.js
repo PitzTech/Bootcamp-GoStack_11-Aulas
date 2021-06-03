@@ -27,13 +27,12 @@ export default function App() {
    return (
       <> 
          <StatusBar barStyle="light-content" backgroundColor="#7159c1" />
-         
          <SafeAreaView style={styles.container}>
             <FlatList 
                data={projects}
                keyExtractor={project => project.id}
-               renderItem={({ item }) => (
-                  <Text style={styles.project}>{item.title}</Text>
+               renderItem={({ item: project }) => (
+                  <Text style={styles.project}>{project.title}</Text>
                )}
             />
 
